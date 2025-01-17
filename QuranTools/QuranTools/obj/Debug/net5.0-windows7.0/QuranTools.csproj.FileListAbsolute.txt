@@ -1,0 +1,9 @@
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\Interop.WMPLib.dll
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\AxInterop.WMPLib.dll
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\QuranTools.csproj.ResolveComReference.cache
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\QuranTools.Form1.resources
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\QuranTools.csproj.GenerateResource.cache
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\QuranTools.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\QuranTools.AssemblyInfoInputs.cache
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\QuranTools.AssemblyInfo.cs
+G:\Projects\QuranTools\QuranTools\obj\Debug\net5.0-windows7.0\QuranTools.csproj.CoreCompileInputs.cache
